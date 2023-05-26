@@ -5,12 +5,12 @@ You work as a risk management associate at Alphabet Soup, a venture capital firm
 
 The business team has given you a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. With your knowledge of machine learning and neural networks, you decide to use the features in the provided dataset to create a binary classifier model that will predict whether an applicant will become a successful business. The CSV file contains a variety of information about these businesses, including whether or not they ultimately became successful.
 
+# Table of contents
 
-## Prepare the data for use on a neural network model.
-
-## Compile and evaluate a binary classification model using a neural network.
-
-## Optimize the neural network model.
+-[Prepare the data for use on a neural network model](##prepare-the-data-for-use-on-a-neural-network-model)
+-[Compile and evaluate a binary classification model using a neural network](##compile-and-evaluate-a-binary-classification-model-using-a-neural-network)
+-[Optimize the neural network model](##optimize-the-neural-network-model)
+## Prepare the data for use on a neural network model
 
 Prepare the Data for Use on a Neural Network Model
 Using your knowledge of Pandas and scikit-learn’s StandardScaler(), preprocess the dataset so that you can use it to compile and evaluate the neural network model later.
@@ -33,6 +33,22 @@ Split the features and target sets into training and testing datasets.
 
 Use scikit-learn's StandardScaler to scale the features data.
 
+![1]()
+
+![2]()
+
+![3]()
+
+![4]()
+
+![5]()
+
+![6]()
+
+![1]()
+
+## Compile and evaluate a binary classification model using a neural network
+
 Compile and Evaluate a Binary Classification Model Using a Neural Network
 Use your knowledge of TensorFlow to design a binary classification deep neural network model. This model should use the dataset’s features to predict whether an Alphabet Soup–funded startup will be successful based on the features in the dataset. Consider the number of inputs before determining the number of layers that your model will contain or the number of neurons on each layer. Then, compile and fit your model. Finally, evaluate your binary classification model to calculate the model’s loss and accuracy.
 
@@ -48,12 +64,20 @@ Evaluate the model using the test data to determine the model’s loss and accur
 
 Save and export your model to an HDF5 file, and name the file AlphabetSoup.h5.
 
+![7]()
+
+![8]()
+
+![9]()
+
+![10]()
+
+
+## Optimize the neural network model
+
+
 Optimize the Neural Network Model
 Using your knowledge of TensorFlow and Keras, optimize your model to improve the model's accuracy. Even if you do not successfully achieve a better accuracy, you'll need to demonstrate at least two attempts to optimize the model. You can include these attempts in your existing notebook. Or, you can make copies of the starter notebook in the same folder, rename them, and code each model optimization in a new notebook.
-
-Note You will not lose points if your model does not achieve a high accuracy, as long as you make at least two attempts to optimize the model.
-
-To do so, complete the following steps:
 
 Define at least three new deep neural network models (the original plus 2 optimization attempts). With each, try to improve on your first model’s predictive accuracy.
 Rewind Recall that perfect accuracy has a value of 1, so accuracy improves as its value moves closer to 1. To optimize your model for a predictive accuracy as close to 1 as possible, you can use any or all of the following techniques:
@@ -71,3 +95,8 @@ Add to or reduce the number of epochs in the training regimen.
 After finishing your models, display the accuracy scores achieved by each model, and compare the results.
 
 Save each of your models as an HDF5 file.
+
+![11]()
+
+
+![12]()
