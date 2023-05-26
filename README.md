@@ -33,19 +33,18 @@ Split the features and target sets into training and testing datasets.
 
 Use scikit-learn's StandardScaler to scale the features data.
 
-![1]()
+![1](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/1.PNG)
 
-![2]()
+![2](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/2.PNG)
 
-![3]()
+![3](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/3.PNG)
 
-![4]()
+![4](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/4.PNG)
 
-![5]()
+![5](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/5.PNG)
 
-![6]()
+![6](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/6.PNG)
 
-![1]()
 
 ## Compile and evaluate a binary classification model using a neural network
 
@@ -64,13 +63,13 @@ Evaluate the model using the test data to determine the model’s loss and accur
 
 Save and export your model to an HDF5 file, and name the file AlphabetSoup.h5.
 
-![7]()
+![7](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/7.PNG)
 
-![8]()
+![8](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/8.PNG)
 
-![9]()
+![9](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/9.PNG)
 
-![10]()
+![10](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/10.PNG)
 
 
 ## Optimize the neural network model
@@ -96,7 +95,7 @@ After finishing your models, display the accuracy scores achieved by each model,
 
 Save each of your models as an HDF5 file.
 
-![11]()
+![11](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/11.PNG)
 
 
-![12]()
+![12](https://github.com/reiccv/Module_13_Challenge/blob/main/Resources/images/12.PNG)
