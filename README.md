@@ -7,9 +7,9 @@ The business team has given you a CSV containing more than 34,000 organizations 
 
 # Table of contents
 
--[Prepare the data for use on a neural network model](##prepare-the-data-for-use-on-a-neural-network-model)
--[Compile and evaluate a binary classification model using a neural network](##compile-and-evaluate-a-binary-classification-model-using-a-neural-network)
--[Optimize the neural network model](##optimize-the-neural-network-model)
+-[Prepare the data for use on a neural network model](#prepare-the-data-for-use-on-a-neural-network-model)
+-[Compile and evaluate a binary classification model using a neural network](#compile-and-evaluate-a-binary-classification-model-using-a-neural-network)
+-[Optimize the neural network model](#optimize-the-neural-network-model)
 ## Prepare the data for use on a neural network model
 
 Prepare the Data for Use on a Neural Network Model
